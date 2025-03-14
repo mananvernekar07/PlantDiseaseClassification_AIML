@@ -47,7 +47,7 @@ elif(app_mode == 'Predict Disease'):
         st.image(test_image, width=4, use_container_width=True)
 
     if(st.button("Predict")):
-        st.write("Our Prediction")
+        st.write("Our Prediction...")
         result_index = model_predict(save_path)
         print(result_index)
 
