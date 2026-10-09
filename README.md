@@ -5,7 +5,7 @@ Training on Plant Disease Prediction (AI/ML)
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
 
 # Download CNN model:
-https://drive.google.com/file/d/1g8s8msy94ypm1uzOSPm_4Yp68Wqi7GwO/view?usp=drive_link
+(https://drive.google.com/file/d/19bb5_zpvVpeEapU-1GepwUnr88-Xv8EB/view?usp=sharing)
 
 # Instructions
 *Command to execute streamlit in CMD:
