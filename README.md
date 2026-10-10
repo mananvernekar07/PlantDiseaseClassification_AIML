@@ -170,6 +170,9 @@ GitHub: [@mananvernekar07](https://github.com/mananvernekar07)
 
 [PlantDiseaseClassification_AIML — GitHub](https://github.com/mananvernekar07/PlantDiseaseClassification_AIML)
 
+## 📚 Dataset Reference
+Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/
+
 ## 📄 License
 
 Please check the repository for a license file before reusing, modifying, or distributing this project.
