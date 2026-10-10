@@ -91,7 +91,7 @@ python -m pip install streamlit tensorflow numpy opencv-python pillow
 Run the prediction script from the project directory:
 
 ```bash
-python "Plant Disease Prediction.py"
+python -m streamlit run "Plant Disease Prediction.py"
 ```
 
 Follow the instructions in the script, if any, to load the CNN model and provide a plant leaf image.
