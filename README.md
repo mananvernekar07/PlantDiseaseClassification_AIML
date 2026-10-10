@@ -47,7 +47,7 @@ PlantDiseaseClassification_AIML/
 │   └── Sample plant leaf images
 │
 ├── Download CNN model here
-│   └── Instructions or link to download the trained model
+│   └── Link to download the trained model
 │
 ├── HeaderImage.png
 │
